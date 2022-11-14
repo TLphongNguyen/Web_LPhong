@@ -287,6 +287,7 @@ html{
 }
 .places-img{
   width: 100%;
+  background-image:url(paris.jpg);
 
 }
 .places-img:hover{
